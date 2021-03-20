@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Using Github as your Project](https://channel9.msdn.com/Shows/Learn-with-Dr-G/Using-GitHub-as-your-Project-Management-Tool-Recap--Learn-with-Dr-G)
